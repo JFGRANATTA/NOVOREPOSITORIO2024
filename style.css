@@ -1,0 +1,12 @@
+:root{
+    --cor--fundo:#5E3B65;
+    --cor--fonte:#FFFFFF;
+    --cor--fundo2:#5C3A62;
+    --cor--fundo3:#D9D9D9;
+    --cor--fonte:#000000;
+}
+    .cabecalho{
+        background-color: #5C3A62;
+        color:#FFFFFF;
+        
+    }
