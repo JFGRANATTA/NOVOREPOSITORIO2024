@@ -8,5 +8,9 @@
     .cabecalho{
         background-color: #5C3A62;
         color:#FFFFFF;
-        
+        display: flex;
+        justify-content: space-around;
+    }
+    .image-cabecalho{
+        width: 10%;
     }
