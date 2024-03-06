@@ -1,3 +1,7 @@
+{
+    margin:0;
+    pading:0;
+}
 :root{
     --cor--fundo:#5E3B65;
     --cor--fonte:#FFFFFF;
@@ -21,3 +25,6 @@
     margin: 0 16px;
    font-size: 24px;
 }
+    .escola-imagem{
+        width:25%;
+    }
